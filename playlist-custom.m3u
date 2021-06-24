@@ -1,0 +1,1166 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE%201.png" group-title="VARIEDADES",ARTE 1 FHD (2)
+http://puhd.host:80/claudioelite/4725116/9265
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE%201.png" group-title="VARIEDADES",ARTE 1 HD (2)
+http://puhd.host:80/claudioelite/4725116/9264
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE%201.png" group-title="VARIEDADES",ARTE 1 SD (2)
+http://puhd.host:80/claudioelite/4725116/9266
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CLOSED CAPTION FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="ABERTOS",BAND CLOSED CAPTION FHD
+http://puhd.host:80/claudioelite/4725116/14161
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="ABERTOS",BAND FHD (2)
+http://puhd.host:80/claudioelite/4725116/8879
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="ABERTOS",BAND HD (1)
+http://puhd.host:80/claudioelite/4725116/14162
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="ABERTOS",BAND HD (2)
+http://puhd.host:80/claudioelite/4725116/8524
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="ABERTOS",BAND SD (1)
+http://puhd.host:80/claudioelite/4725116/35303
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="ABERTOS",BAND SD (2)
+http://puhd.host:80/claudioelite/4725116/8877
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BSB HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="ABERTOS",BAND BSB HD (1)
+http://puhd.host:80/claudioelite/4725116/35296
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="ABERTOS",BAND RJ HD (1)
+http://puhd.host:80/claudioelite/4725116/35298
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="ABERTOS",BAND RS HD (1)
+http://puhd.host:80/claudioelite/4725116/35299
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="SPORTV",SPORTV FHD H265
+http://puhd.host:80/claudioelite/4725116/14090
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="SPORTV",SPORTV FHD (2)
+http://puhd.host:80/claudioelite/4725116/8983
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="SPORTV",SPORTV HD (1)
+http://puhd.host:80/claudioelite/4725116/14093
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="SPORTV",SPORTV HD (2)
+http://puhd.host:80/claudioelite/4725116/8982
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="SPORTV",SPORTV SD (1)
+http://puhd.host:80/claudioelite/4725116/26408
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="SPORTV",SPORTV SD (2)
+http://puhd.host:80/claudioelite/4725116/8990
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="SPORTV",SPORTV 2 FHD H265
+http://puhd.host:80/claudioelite/4725116/14091
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="SPORTV",SPORTV 2 FHD (2)
+http://puhd.host:80/claudioelite/4725116/8988
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="SPORTV",SPORTV 2 HD (1)
+http://puhd.host:80/claudioelite/4725116/14094
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="SPORTV",SPORTV 2 HD (2)
+http://puhd.host:80/claudioelite/4725116/8987
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="SPORTV",SPORTV 2 SD (1)
+http://puhd.host:80/claudioelite/4725116/26407
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="SPORTV",SPORTV 2 SD (2)
+http://puhd.host:80/claudioelite/4725116/8989
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="SPORTV",SPORTV 3 FHD H265
+http://puhd.host:80/claudioelite/4725116/14092
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="SPORTV",SPORTV 3 FHD (2)
+http://puhd.host:80/claudioelite/4725116/8985
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="SPORTV",SPORTV 3 HD (1)
+http://puhd.host:80/claudioelite/4725116/14095
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="SPORTV",SPORTV 3 HD (2)
+http://puhd.host:80/claudioelite/4725116/8984
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="SPORTV",SPORTV 3 SD (1)
+http://puhd.host:80/claudioelite/4725116/26406
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="SPORTV",SPORTV 3 SD (2)
+http://puhd.host:80/claudioelite/4725116/8986
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="COMBATE",COMBATE FHD H265
+http://puhd.host:80/claudioelite/4725116/14096
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="COMBATE",COMBATE FHD (2)
+http://puhd.host:80/claudioelite/4725116/8978
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="COMBATE",COMBATE HD (1)
+http://puhd.host:80/claudioelite/4725116/14097
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="COMBATE",COMBATE HD (2)
+http://puhd.host:80/claudioelite/4725116/8977
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="COMBATE",COMBATE SD (1)
+http://puhd.host:80/claudioelite/4725116/26409
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="COMBATE",COMBATE SD (2)
+http://puhd.host:80/claudioelite/4725116/8979
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BAND%20SPORTS.png" group-title="BAND SPORTS",BAND SPORTS FHD H265
+http://puhd.host:80/claudioelite/4725116/14098
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BAND%20SPORTS.png" group-title="BAND SPORTS",BAND SPORTS FHD (2)
+http://puhd.host:80/claudioelite/4725116/8968
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BAND%20SPORTS.png" group-title="BAND SPORTS",BAND SPORTS HD (1)
+http://puhd.host:80/claudioelite/4725116/14099
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BAND%20SPORTS.png" group-title="BAND SPORTS",BAND SPORTS HD (2)
+http://puhd.host:80/claudioelite/4725116/8969
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BAND%20SPORTS.png" group-title="BAND SPORTS",BAND SPORTS SD (1)
+http://puhd.host:80/claudioelite/4725116/26410
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BAND%20SPORTS.png" group-title="BAND SPORTS",BAND SPORTS SD (2)
+http://puhd.host:80/claudioelite/4725116/8330
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/E%21.png" group-title="VARIEDADES",E! FHD H265
+http://puhd.host:80/claudioelite/4725116/9257
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/E%21.png" group-title="VARIEDADES",E! HD (1)
+http://puhd.host:80/claudioelite/4725116/14308
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/E%21.png" group-title="VARIEDADES",E! SD (1)
+http://puhd.host:80/claudioelite/4725116/8477
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPN",ESPN FHD H265
+http://puhd.host:80/claudioelite/4725116/14101
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPN",ESPN FHD (2)
+http://puhd.host:80/claudioelite/4725116/8964
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPN",ESPN HD (1)
+http://puhd.host:80/claudioelite/4725116/14105
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPN",ESPN HD (2)
+http://puhd.host:80/claudioelite/4725116/8958
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPN",ESPN SD (1)
+http://puhd.host:80/claudioelite/4725116/26417
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPN",ESPN SD (2)
+http://puhd.host:80/claudioelite/4725116/8965
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPN",ESPN 2 FHD H265
+http://puhd.host:80/claudioelite/4725116/14102
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPN",ESPN 2 FHD (2)
+http://puhd.host:80/claudioelite/4725116/8957
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPN",ESPN 2 HD (1)
+http://puhd.host:80/claudioelite/4725116/14106
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPN",ESPN 2 HD (2)
+http://puhd.host:80/claudioelite/4725116/8338
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPN",ESPN 2 SD (1)
+http://puhd.host:80/claudioelite/4725116/26413
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPN",ESPN 2 SD (2)
+http://puhd.host:80/claudioelite/4725116/8339
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPN",ESPN BRASIL FHD H265
+http://puhd.host:80/claudioelite/4725116/14103
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPN",ESPN BRASIL FHD (2)
+http://puhd.host:80/claudioelite/4725116/8960
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPN",ESPN BRASIL HD (1)
+http://puhd.host:80/claudioelite/4725116/14107
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPN",ESPN BRASIL HD (2)
+http://puhd.host:80/claudioelite/4725116/8961
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPN",ESPN BRASIL SD (1)
+http://puhd.host:80/claudioelite/4725116/26411
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPN",ESPN BRASIL SD (2)
+http://puhd.host:80/claudioelite/4725116/8962
+
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="ESPN",ESPN EXTRA FHD H265
+http://puhd.host:80/claudioelite/4725116/14104
+
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="ESPN",ESPN EXTRA FHD (2)
+http://puhd.host:80/claudioelite/4725116/8956
+
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="ESPN",ESPN EXTRA HD (1)
+http://puhd.host:80/claudioelite/4725116/14108
+
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="ESPN",ESPN EXTRA HD (2)
+http://puhd.host:80/claudioelite/4725116/8963
+
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="ESPN",ESPN EXTRA SD (1)
+http://puhd.host:80/claudioelite/4725116/26412
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="FOX SPORTS",FOX SPORTS FHD H265
+http://puhd.host:80/claudioelite/4725116/14109
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="FOX SPORTS",FOX SPORTS FHD (2)
+http://puhd.host:80/claudioelite/4725116/8972
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="FOX SPORTS",FOX SPORTS HD (1)
+http://puhd.host:80/claudioelite/4725116/14111
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="FOX SPORTS",FOX SPORTS HD (2)
+http://puhd.host:80/claudioelite/4725116/8971
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="FOX SPORTS",FOX SPORTS SD (1)
+http://puhd.host:80/claudioelite/4725116/26424
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="FOX SPORTS",FOX SPORTS SD (2)
+http://puhd.host:80/claudioelite/4725116/8976
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="FOX SPORTS",FOX SPORTS 2 FHD H265
+http://puhd.host:80/claudioelite/4725116/14110
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="FOX SPORTS",FOX SPORTS 2 FHD (2)
+http://puhd.host:80/claudioelite/4725116/8974
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="FOX SPORTS",FOX SPORTS 2 HD (1)
+http://puhd.host:80/claudioelite/4725116/14112
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="FOX SPORTS",FOX SPORTS 2 HD (2)
+http://puhd.host:80/claudioelite/4725116/8973
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="FOX SPORTS",FOX SPORTS 2 SD (1)
+http://puhd.host:80/claudioelite/4725116/26414
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="FOX SPORTS",FOX SPORTS 2 SD (2)
+http://puhd.host:80/claudioelite/4725116/8975
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK FHD H265
+http://puhd.host:80/claudioelite/4725116/14309
+
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK FHD (2)
+http://puhd.host:80/claudioelite/4725116/9255
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD (1)
+http://puhd.host:80/claudioelite/4725116/14310
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD (2)
+http://puhd.host:80/claudioelite/4725116/9254
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK SD (2)
+http://puhd.host:80/claudioelite/4725116/9256
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA SP FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20GAZETA.png" group-title="ABERTOS",GAZETA SP FHD (2)
+http://puhd.host:80/claudioelite/4725116/8869
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA SP HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20GAZETA.png" group-title="ABERTOS",GAZETA SP HD (1)
+http://puhd.host:80/claudioelite/4725116/35340
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO SP FHD H265
+http://puhd.host:80/claudioelite/4725116/32678
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO SP FHD (2)
+http://puhd.host:80/claudioelite/4725116/13835
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO SP HD (1)
+http://puhd.host:80/claudioelite/4725116/9187
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO SP HD (2)
+http://puhd.host:80/claudioelite/4725116/8559
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO SP SD (1)
+http://puhd.host:80/claudioelite/4725116/32685
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO SP SD (2)
+http://puhd.host:80/claudioelite/4725116/9189
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO RJ FHD (1)
+http://puhd.host:80/claudioelite/4725116/32675
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO RJ HD (1)
+http://puhd.host:80/claudioelite/4725116/9191
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO RJ HD (2)
+http://puhd.host:80/claudioelite/4725116/8549
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO RJ SD (1)
+http://puhd.host:80/claudioelite/4725116/32684
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO RJ SD (2)
+http://puhd.host:80/claudioelite/4725116/9193
+
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO BRASILIA FHD H265
+http://puhd.host:80/claudioelite/4725116/23115
+
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO BRASILIA HD (2)
+http://puhd.host:80/claudioelite/4725116/13846
+
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO BRASILIA SD (1)
+http://puhd.host:80/claudioelite/4725116/32681
+
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO BRASILIA SD (2)
+http://puhd.host:80/claudioelite/4725116/8571
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTERNACIONAL HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO INTERNACIONAL HD (1)
+http://puhd.host:80/claudioelite/4725116/32670
+
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PORTO ALEGRE SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO RBS TV PORTO ALEGRE SD (1)
+http://puhd.host:80/claudioelite/4725116/32687
+
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PORTO ALEGRE HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO RBS TV PORTO ALEGRE HD (2)
+http://puhd.host:80/claudioelite/4725116/9196
+
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV POA HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO RBS TV POA HD (1)
+http://puhd.host:80/claudioelite/4725116/13848
+
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PORTO ALEGRE SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO RBS TV PORTO ALEGRE SD (2)
+http://puhd.host:80/claudioelite/4725116/13840
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO TV CENTRO AMERICA HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO TV CENTRO AMERICA HD (1)
+http://puhd.host:80/claudioelite/4725116/8558
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO TV CENTRO AMERICA SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO TV CENTRO AMERICA SD (2)
+http://puhd.host:80/claudioelite/4725116/8564
+
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV LIBERAL HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO TV LIBERAL HD (1)
+http://puhd.host:80/claudioelite/4725116/8556
+
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV LIBERAL SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO TV LIBERAL SD (1)
+http://puhd.host:80/claudioelite/4725116/32694
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT FHD H265
+http://puhd.host:80/claudioelite/4725116/14159
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT FHD (2)
+http://puhd.host:80/claudioelite/4725116/8886
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT HD (1)
+http://puhd.host:80/claudioelite/4725116/14160
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT HD (2)
+http://puhd.host:80/claudioelite/4725116/8884
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT SD (1)
+http://puhd.host:80/claudioelite/4725116/35333
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT SD (2)
+http://puhd.host:80/claudioelite/4725116/8887
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT BSB HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT BSB HD (1)
+http://puhd.host:80/claudioelite/4725116/35324
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT RJ HD (1)
+http://puhd.host:80/claudioelite/4725116/35325
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT RS HD (1)
+http://puhd.host:80/claudioelite/4725116/35326
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV TRIBUNA ES HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="ABERTOS",SBT TV TRIBUNA ES HD (1)
+http://puhd.host:80/claudioelite/4725116/35329
+
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT FHD H265
+http://puhd.host:80/claudioelite/4725116/14315
+
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT FHD (2)
+http://puhd.host:80/claudioelite/4725116/14324
+
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT HD (1)
+http://puhd.host:80/claudioelite/4725116/14316
+
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT HD (2)
+http://puhd.host:80/claudioelite/4725116/9179
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="MAIS GLOBOSAT SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT SD (2)
+http://puhd.host:80/claudioelite/4725116/9180
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT  FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT  FHD H265
+http://puhd.host:80/claudioelite/4725116/14311
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT FHD (2)
+http://puhd.host:80/claudioelite/4725116/11104
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT HD (1)
+http://puhd.host:80/claudioelite/4725116/14312
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT HD (2)
+http://puhd.host:80/claudioelite/4725116/9252
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT SD (2)
+http://puhd.host:80/claudioelite/4725116/9253
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO FHD H265
+http://puhd.host:80/claudioelite/4725116/14129
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO FHD (2)
+http://puhd.host:80/claudioelite/4725116/9081
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO HD (1)
+http://puhd.host:80/claudioelite/4725116/14134
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO HD (2)
+http://puhd.host:80/claudioelite/4725116/9080
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO SD (1)
+http://puhd.host:80/claudioelite/4725116/26425
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO SD (2)
+http://puhd.host:80/claudioelite/4725116/9087
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%202.png" group-title="HBO",HBO 2 FHD H265
+http://puhd.host:80/claudioelite/4725116/14130
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%202.png" group-title="HBO",HBO 2 FHD (2)
+http://puhd.host:80/claudioelite/4725116/9085
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%202.png" group-title="HBO",HBO 2 HD (1)
+http://puhd.host:80/claudioelite/4725116/14135
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%202.png" group-title="HBO",HBO 2 HD (2)
+http://puhd.host:80/claudioelite/4725116/9084
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%202.png" group-title="HBO",HBO 2 SD (1)
+http://puhd.host:80/claudioelite/4725116/26426
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%202.png" group-title="HBO",HBO 2 SD (2)
+http://puhd.host:80/claudioelite/4725116/9086
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20FAMILY.png" group-title="HBO",HBO FAMILY FHD H265
+http://puhd.host:80/claudioelite/4725116/14131
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20FAMILY.png" group-title="HBO",HBO FAMILY FHD (2)
+http://puhd.host:80/claudioelite/4725116/9071
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20FAMILY.png" group-title="HBO",HBO FAMILY HD (1)
+http://puhd.host:80/claudioelite/4725116/14136
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20FAMILY.png" group-title="HBO",HBO FAMILY HD (2)
+http://puhd.host:80/claudioelite/4725116/9082
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20FAMILY.png" group-title="HBO",HBO FAMILY SD (1)
+http://puhd.host:80/claudioelite/4725116/26427
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20FAMILY.png" group-title="HBO",HBO FAMILY SD (2)
+http://puhd.host:80/claudioelite/4725116/9083
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS FHD H265
+http://puhd.host:80/claudioelite/4725116/14132
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS FHD (2)
+http://puhd.host:80/claudioelite/4725116/9078
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS HD (1)
+http://puhd.host:80/claudioelite/4725116/14137
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS HD (2)
+http://puhd.host:80/claudioelite/4725116/9077
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS SD (1)
+http://puhd.host:80/claudioelite/4725116/26428
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS SD (2)
+http://puhd.host:80/claudioelite/4725116/9079
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD H265
+http://puhd.host:80/claudioelite/4725116/14133
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD (2)
+http://puhd.host:80/claudioelite/4725116/9073
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE HD (1)
+http://puhd.host:80/claudioelite/4725116/14138
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE HD (2)
+http://puhd.host:80/claudioelite/4725116/9072
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE SD (1)
+http://puhd.host:80/claudioelite/4725116/26429
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE SD (2)
+http://puhd.host:80/claudioelite/4725116/9074
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20MUNDI.png" group-title="HBO",HBO MUNDI FHD H265
+http://puhd.host:80/claudioelite/4725116/14183
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20MUNDI.png" group-title="HBO",HBO MUNDI FHD (2)
+http://puhd.host:80/claudioelite/4725116/9049
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20MUNDI.png" group-title="HBO",HBO MUNDI HD (1)
+http://puhd.host:80/claudioelite/4725116/14186
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20MUNDI.png" group-title="HBO",HBO MUNDI SD (1)
+http://puhd.host:80/claudioelite/4725116/26432
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20XTREME.png" group-title="HBO",HBO XTREME FHD H265
+http://puhd.host:80/claudioelite/4725116/14185
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20XTREME.png" group-title="HBO",HBO XTREME FHD (2)
+http://puhd.host:80/claudioelite/4725116/9006
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20XTREME.png" group-title="HBO",HBO XTREME HD (1)
+http://puhd.host:80/claudioelite/4725116/14188
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20XTREME.png" group-title="HBO",HBO XTREME HD (2)
+http://puhd.host:80/claudioelite/4725116/9047
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20XTREME.png" group-title="HBO",HBO XTREME SD (1)
+http://puhd.host:80/claudioelite/4725116/26430
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20XTREME.png" group-title="HBO",HBO XTREME SD (2)
+http://puhd.host:80/claudioelite/4725116/9048
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20POP.png" group-title="HBO",HBO POP FHD H265
+http://puhd.host:80/claudioelite/4725116/14184
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20POP.png" group-title="HBO",HBO POP FHD (2)
+http://puhd.host:80/claudioelite/4725116/9043
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20POP.png" group-title="HBO",HBO POP HD (1)
+http://puhd.host:80/claudioelite/4725116/14187
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20POP.png" group-title="HBO",HBO POP HD (2)
+http://puhd.host:80/claudioelite/4725116/8404
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20POP.png" group-title="HBO",HBO POP SD (1)
+http://puhd.host:80/claudioelite/4725116/26431
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20POP.png" group-title="HBO",HBO POP SD (2)
+http://puhd.host:80/claudioelite/4725116/9044
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="VARIEDADES",LIFETIME FHD H265
+http://puhd.host:80/claudioelite/4725116/14313
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="VARIEDADES",LIFETIME FHD (2)
+http://puhd.host:80/claudioelite/4725116/8892
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="VARIEDADES",LIFETIME HD (1)
+http://puhd.host:80/claudioelite/4725116/14314
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="VARIEDADES",LIFETIME HD (2)
+http://puhd.host:80/claudioelite/4725116/9267
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="VARIEDADES",LIFETIME SD (2)
+http://puhd.host:80/claudioelite/4725116/9268
+
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/NHK.png" group-title="VARIEDADES",NHK HD (2)
+http://puhd.host:80/claudioelite/4725116/8890
+
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/NHK.png" group-title="VARIEDADES",NHK SD (2)
+http://puhd.host:80/claudioelite/4725116/8493
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/CANAL%20OFF.png" group-title="OFF",OFF FHD H265
+http://puhd.host:80/claudioelite/4725116/14115
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/CANAL%20OFF.png" group-title="OFF",OFF FHD (2)
+http://puhd.host:80/claudioelite/4725116/8953
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/CANAL%20OFF.png" group-title="OFF",OFF HD (1)
+http://puhd.host:80/claudioelite/4725116/14116
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/CANAL%20OFF.png" group-title="OFF",OFF HD (2)
+http://puhd.host:80/claudioelite/4725116/8323
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/CANAL%20OFF.png" group-title="OFF",OFF SD (1)
+http://puhd.host:80/claudioelite/4725116/26416
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/CANAL%20OFF.png" group-title="OFF",OFF SD (2)
+http://puhd.host:80/claudioelite/4725116/8954
+
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/PLAYTV.png" group-title="VARIEDADES",PLAY TV HD (1)
+http://puhd.host:80/claudioelite/4725116/14318
+
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/PLAYTV.png" group-title="VARIEDADES",PLAY TV SD (2)
+http://puhd.host:80/claudioelite/4725116/9251
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE CLUBES FHD H265
+http://puhd.host:80/claudioelite/4725116/14139
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE CLUBES FHD (2)
+http://puhd.host:80/claudioelite/4725116/9155
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE CLUBES HD (1)
+http://puhd.host:80/claudioelite/4725116/14140
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE CLUBES HD (2)
+http://puhd.host:80/claudioelite/4725116/9154
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE CLUBES SD (1)
+http://puhd.host:80/claudioelite/4725116/28167
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE CLUBES SD (2)
+http://puhd.host:80/claudioelite/4725116/9173
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 FHD H265
+http://puhd.host:80/claudioelite/4725116/14141
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 2 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 FHD (2)
+http://puhd.host:80/claudioelite/4725116/9171
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD (1)
+http://puhd.host:80/claudioelite/4725116/14142
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 2 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD (2)
+http://puhd.host:80/claudioelite/4725116/9170
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 SD (1)
+http://puhd.host:80/claudioelite/4725116/28159
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 2 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 SD (2)
+http://puhd.host:80/claudioelite/4725116/9172
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 FHD H265
+http://puhd.host:80/claudioelite/4725116/14143
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 3 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 FHD (2)
+http://puhd.host:80/claudioelite/4725116/9168
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD (1)
+http://puhd.host:80/claudioelite/4725116/14144
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 3 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD (2)
+http://puhd.host:80/claudioelite/4725116/9167
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 SD (1)
+http://puhd.host:80/claudioelite/4725116/28160
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 3 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 SD (2)
+http://puhd.host:80/claudioelite/4725116/9169
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 FHD H265
+http://puhd.host:80/claudioelite/4725116/14145
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 4 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 FHD (2)
+http://puhd.host:80/claudioelite/4725116/9165
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD (1)
+http://puhd.host:80/claudioelite/4725116/14146
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 4 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD (2)
+http://puhd.host:80/claudioelite/4725116/9164
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 SD (1)
+http://puhd.host:80/claudioelite/4725116/28161
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 4 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 SD (2)
+http://puhd.host:80/claudioelite/4725116/9166
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 FHD H265
+http://puhd.host:80/claudioelite/4725116/14147
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 5 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 FHD (2)
+http://puhd.host:80/claudioelite/4725116/9162
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD (1)
+http://puhd.host:80/claudioelite/4725116/14148
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 5 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD (2)
+http://puhd.host:80/claudioelite/4725116/9161
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 SD (1)
+http://puhd.host:80/claudioelite/4725116/28162
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 5 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 SD (2)
+http://puhd.host:80/claudioelite/4725116/9163
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 FHD H265
+http://puhd.host:80/claudioelite/4725116/14149
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 6 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 FHD (2)
+http://puhd.host:80/claudioelite/4725116/9159
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD (1)
+http://puhd.host:80/claudioelite/4725116/14150
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 6 HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD (2)
+http://puhd.host:80/claudioelite/4725116/8356
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 SD (1)
+http://puhd.host:80/claudioelite/4725116/28163
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 6 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 SD (2)
+http://puhd.host:80/claudioelite/4725116/9160
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 FHD H265
+http://puhd.host:80/claudioelite/4725116/28158
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 7 FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 FHD (2)
+http://puhd.host:80/claudioelite/4725116/8354
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 7 HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD (1)
+http://puhd.host:80/claudioelite/4725116/28168
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 SD (1)
+http://puhd.host:80/claudioelite/4725116/28164
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 7 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 SD (2)
+http://puhd.host:80/claudioelite/4725116/9158
+
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 SD (1)
+http://puhd.host:80/claudioelite/4725116/28165
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PREMIERE 8 SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 SD (2)
+http://puhd.host:80/claudioelite/4725116/9157
+
+#EXTINF:-1 tvg-id="Premiere9.br" tvg-name="PREMIERE 9 SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/PREMIERE.png" group-title="PREMIERE",PREMIERE 9 SD (1)
+http://puhd.host:80/claudioelite/4725116/28166
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD SP FHD H265
+http://puhd.host:80/claudioelite/4725116/14151
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD SP FHD (2)
+http://puhd.host:80/claudioelite/4725116/8893
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD SP HD (1)
+http://puhd.host:80/claudioelite/4725116/14152
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD SP HD (2)
+http://puhd.host:80/claudioelite/4725116/8894
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD SP SD (2)
+http://puhd.host:80/claudioelite/4725116/8895
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD GOIAS HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD GOIAS HD
+http://puhd.host:80/claudioelite/4725116/16424
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RIO HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD RIO HD (1)
+http://puhd.host:80/claudioelite/4725116/16428
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD BRASILIA HD (1)
+http://puhd.host:80/claudioelite/4725116/35305
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD RS HD (1)
+http://puhd.host:80/claudioelite/4725116/35306
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="ABERTOS",RECORD TV
+http://puhd.host:80/claudioelite/4725116/35320
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/REDE%20TV%21.png" group-title="ABERTOS",REDE TV FHD H265
+http://puhd.host:80/claudioelite/4725116/14164
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/REDE%20TV%21.png" group-title="ABERTOS",REDE TV HD (1)
+http://puhd.host:80/claudioelite/4725116/14165
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/REDE%20TV%21.png" group-title="ABERTOS",REDE TV HD (2)
+http://puhd.host:80/claudioelite/4725116/8875
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/REDE%20TV%21.png" group-title="ABERTOS",REDE TV SD (1)
+http://puhd.host:80/claudioelite/4725116/35335
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/REDE%20TV%21.png" group-title="ABERTOS",REDE TV SD (2)
+http://puhd.host:80/claudioelite/4725116/8876
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20ACTION.png" group-title="TELECINE",TELECINE ACTION FHD H265
+http://puhd.host:80/claudioelite/4725116/14117
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20ACTION.png" group-title="TELECINE",TELECINE ACTION FHD (2)
+http://puhd.host:80/claudioelite/4725116/9241
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20ACTION.png" group-title="TELECINE",TELECINE ACTION HD (1)
+http://puhd.host:80/claudioelite/4725116/14123
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20ACTION.png" group-title="TELECINE",TELECINE ACTION HD (2)
+http://puhd.host:80/claudioelite/4725116/9240
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20ACTION.png" group-title="TELECINE",TELECINE ACTION SD (1)
+http://puhd.host:80/claudioelite/4725116/26418
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20ACTION.png" group-title="TELECINE",TELECINE ACTION SD (2)
+http://puhd.host:80/claudioelite/4725116/9242
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20CULT.png" group-title="TELECINE",TELECINE CULT FHD H265
+http://puhd.host:80/claudioelite/4725116/14118
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20CULT.png" group-title="TELECINE",TELECINE CULT FHD (2)
+http://puhd.host:80/claudioelite/4725116/9238
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20CULT.png" group-title="TELECINE",TELECINE CULT HD (1)
+http://puhd.host:80/claudioelite/4725116/14124
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20CULT.png" group-title="TELECINE",TELECINE CULT HD (2)
+http://puhd.host:80/claudioelite/4725116/8376
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20CULT.png" group-title="TELECINE",TELECINE CULT SD (1)
+http://puhd.host:80/claudioelite/4725116/26419
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20CULT.png" group-title="TELECINE",TELECINE CULT SD (2)
+http://puhd.host:80/claudioelite/4725116/9239
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20FUN.png" group-title="TELECINE",TELECINE FUN FHD H265
+http://puhd.host:80/claudioelite/4725116/14119
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20FUN.png" group-title="TELECINE",TELECINE FUN FHD (2)
+http://puhd.host:80/claudioelite/4725116/9235
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20FUN.png" group-title="TELECINE",TELECINE FUN HD (1)
+http://puhd.host:80/claudioelite/4725116/14125
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20FUN.png" group-title="TELECINE",TELECINE FUN HD (2)
+http://puhd.host:80/claudioelite/4725116/9234
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20FUN.png" group-title="TELECINE",TELECINE FUN SD (1)
+http://puhd.host:80/claudioelite/4725116/26420
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20FUN.png" group-title="TELECINE",TELECINE FUN SD (2)
+http://puhd.host:80/claudioelite/4725116/9236
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PIPOCA.png" group-title="TELECINE",TELECINE PIPOCA FHD H265
+http://puhd.host:80/claudioelite/4725116/14120
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PIPOCA.png" group-title="TELECINE",TELECINE PIPOCA FHD (2)
+http://puhd.host:80/claudioelite/4725116/9232
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PIPOCA.png" group-title="TELECINE",TELECINE PIPOCA HD (1)
+http://puhd.host:80/claudioelite/4725116/14126
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PIPOCA.png" group-title="TELECINE",TELECINE PIPOCA HD (2)
+http://puhd.host:80/claudioelite/4725116/9231
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PIPOCA.png" group-title="TELECINE",TELECINE PIPOCA SD (1)
+http://puhd.host:80/claudioelite/4725116/26421
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PIPOCA.png" group-title="TELECINE",TELECINE PIPOCA SD (2)
+http://puhd.host:80/claudioelite/4725116/8373
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PREMIUM.png" group-title="TELECINE",TELECINE PREMIUM FHD H265
+http://puhd.host:80/claudioelite/4725116/14121
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PREMIUM.png" group-title="TELECINE",TELECINE PREMIUM FHD (2)
+http://puhd.host:80/claudioelite/4725116/9229
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PREMIUM.png" group-title="TELECINE",TELECINE PREMIUM HD (1)
+http://puhd.host:80/claudioelite/4725116/14127
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PREMIUM.png" group-title="TELECINE",TELECINE PREMIUM HD (2)
+http://puhd.host:80/claudioelite/4725116/9228
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PREMIUM.png" group-title="TELECINE",TELECINE PREMIUM SD (1)
+http://puhd.host:80/claudioelite/4725116/26422
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PREMIUM.png" group-title="TELECINE",TELECINE PREMIUM SD (2)
+http://puhd.host:80/claudioelite/4725116/8371
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20TOUCH.png" group-title="TELECINE",TELECINE TOUCH FHD H265
+http://puhd.host:80/claudioelite/4725116/14122
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20TOUCH.png" group-title="TELECINE",TELECINE TOUCH FHD (2)
+http://puhd.host:80/claudioelite/4725116/9226
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20TOUCH.png" group-title="TELECINE",TELECINE TOUCH HD (1)
+http://puhd.host:80/claudioelite/4725116/14128
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20TOUCH.png" group-title="TELECINE",TELECINE TOUCH HD (2)
+http://puhd.host:80/claudioelite/4725116/9225
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20TOUCH.png" group-title="TELECINE",TELECINE TOUCH SD (1)
+http://puhd.host:80/claudioelite/4725116/26423
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20TOUCH.png" group-title="TELECINE",TELECINE TOUCH SD (2)
+http://puhd.host:80/claudioelite/4725116/8369
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TCL%20DISCOVERY.png" group-title="VARIEDADES",TLC FHD H265
+http://puhd.host:80/claudioelite/4725116/14319
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TCL%20DISCOVERY.png" group-title="VARIEDADES",TLC FHD (2)
+http://puhd.host:80/claudioelite/4725116/11106
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TCL%20DISCOVERY.png" group-title="VARIEDADES",TLC HD (1)
+http://puhd.host:80/claudioelite/4725116/14320
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TCL%20DISCOVERY.png" group-title="VARIEDADES",TLC HD (2)
+http://puhd.host:80/claudioelite/4725116/9249
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TCL%20DISCOVERY.png" group-title="VARIEDADES",TLC SD (2)
+http://puhd.host:80/claudioelite/4725116/9250
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20CULTURA.png" group-title="ABERTOS",TV CULTURA FHD (2)
+http://puhd.host:80/claudioelite/4725116/8874
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20CULTURA.png" group-title="ABERTOS",TV CULTURA HD (2)
+http://puhd.host:80/claudioelite/4725116/8873
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20CULTURA.png" group-title="ABERTOS",TV CULTURA SD (1)
+http://puhd.host:80/claudioelite/4725116/35337
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20CULTURA.png" group-title="ABERTOS",TV CULTURA SD (2)
+http://puhd.host:80/claudioelite/4725116/8512
+
+#EXTINF:-1 tvg-id="Idealtv.br" tvg-name="LOADING TV FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/CANAL%20LOADING.png" group-title="ABERTOS",LOADING TV FHD (2)
+http://puhd.host:80/claudioelite/4725116/45554
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="VARIEDADES",VIVA FHD H265
+http://puhd.host:80/claudioelite/4725116/14322
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="VARIEDADES",VIVA FHD (2)
+http://puhd.host:80/claudioelite/4725116/9248
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="VARIEDADES",VIVA HD (1)
+http://puhd.host:80/claudioelite/4725116/14323
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="VARIEDADES",VIVA HD (2)
+http://puhd.host:80/claudioelite/4725116/9245
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="VARIEDADES",VIVA SD (2)
+http://puhd.host:80/claudioelite/4725116/9247
+
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/WOOHOO.png" group-title="VARIEDADES",WOOHOO FHD (2)
+http://puhd.host:80/claudioelite/4725116/11107
+
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/WOOHOO.png" group-title="VARIEDADES",WOOHOO HD (2)
+http://puhd.host:80/claudioelite/4725116/9243
+
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/WOOHOO.png" group-title="VARIEDADES",WOOHOO SD (2)
+http://puhd.host:80/claudioelite/4725116/9244
+
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FASHION%20TV.png" group-title="VARIEDADES",FASHION TV FHD (2)
+http://puhd.host:80/claudioelite/4725116/11103
+
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FASHION%20TV.png" group-title="VARIEDADES",FASHION TV HD (2)
+http://puhd.host:80/claudioelite/4725116/11092
+
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="SHOP TIME HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/SHOPTIME.png" group-title="VARIEDADES",SHOP TIME HD (2)
+http://puhd.host:80/claudioelite/4725116/11091
+
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TERRA%20VIVA.png" group-title="ABERTOS",TERRA VIVA SD (1)
+http://puhd.host:80/claudioelite/4725116/14166
+
+#EXTINF:-1 tvg-id="Tvdiario.br" tvg-name="TV DIARIO HD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20DIARIO.png" group-title="ABERTOS",TV DIARIO HD (1)
+http://puhd.host:80/claudioelite/4725116/14170
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/FUTURA.png" group-title="ABERTOS",FUTURA SD (1)
+http://puhd.host:80/claudioelite/4725116/35342
+
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/REDE%20BRASIL.png" group-title="ABERTOS",REDE BRASIL SD (1)
+http://puhd.host:80/claudioelite/4725116/35345
+
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/REDE%20BRASIL.png" group-title="ABERTOS",REDE BRASIL SD (1)
+http://puhd.host:80/claudioelite/4725116/35334
+
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20CAMARA.png" group-title="ABERTOS",TV CAMARA SD (1)
+http://puhd.host:80/claudioelite/4725116/35336
+
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20JUSTICA.png" group-title="ABERTOS",TV JUSTICA SD (1)
+http://puhd.host:80/claudioelite/4725116/35338
+
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20SENADO.png" group-title="ABERTOS",TV SENADO SD (1)
+http://puhd.host:80/claudioelite/4725116/35339
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="UNIVESP TV SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/UNIVESP%20TV.png" group-title="ABERTOS",UNIVESP TV SD (1)
+http://puhd.host:80/claudioelite/4725116/35343
+
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA SD (1)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20ESCOLA.png" group-title="ABERTOS",TV ESCOLA SD (1)
+http://puhd.host:80/claudioelite/4725116/35344
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CLOSED CAPTION FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO CLOSED CAPTION FHD (2)
+http://puhd.host:80/claudioelite/4725116/45465
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CLOSED CAPTION HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO CLOSED CAPTION HD (2)
+http://puhd.host:80/claudioelite/4725116/45466
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CLOSED CAPTION SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO CLOSED CAPTION SD (2)
+http://puhd.host:80/claudioelite/4725116/45467
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO ALEGRE FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO PORTO ALEGRE FHD (2)
+http://puhd.host:80/claudioelite/4725116/45499
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRAÇAO JF FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO TV INTEGRAÇAO JF FHD (2)
+http://puhd.host:80/claudioelite/4725116/45536
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO JF HD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO TV INTEGRACAO JF HD (2)
+http://puhd.host:80/claudioelite/4725116/45537
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO JF SD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO TV INTEGRACAO JF SD (2)
+http://puhd.host:80/claudioelite/4725116/45538
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA FHD (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/GLOBO.png" group-title="ABERTOS",GLOBO TV TRIBUNA FHD (2)
+http://puhd.host:80/claudioelite/4725116/45546
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/COMBATE%204K.png" group-title="4K",COMBATE 4K
+http://puhd.host:80/claudioelite/4725116/11078
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/GLOBO%204K.png" group-title="4K",GLOBO 4K
+http://puhd.host:80/claudioelite/4725116/11079
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/MULTISHOW%204K.png" group-title="4K",MULTISHOW 4K
+http://puhd.host:80/claudioelite/4725116/11080
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/SPORTV%204K.png" group-title="4K",SPORTV 4K
+http://puhd.host:80/claudioelite/4725116/11081
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/ANIMAL%20PLANET%204K.png" group-title="4K",ANIMAL PLANET 4K
+http://puhd.host:80/claudioelite/4725116/11082
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/SBT%204K.png" group-title="4K",SBT 4K
+http://puhd.host:80/claudioelite/4725116/11083
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/FOX%20SPORTS%204K.png" group-title="4K",FOX SPORTS 4K
+http://puhd.host:80/claudioelite/4725116/11084
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/TNT%204K.png" group-title="4K",TNT 4K
+http://puhd.host:80/claudioelite/4725116/11085
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/DISCOVERY%20CHANNEL%204K.png" group-title="4K",DISCOVERY CHANNEL 4K
+http://puhd.host:80/claudioelite/4725116/11086
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/PREMIERE%204K.png" group-title="4K",PREMIERE CLUBES 4K
+http://puhd.host:80/claudioelite/4725116/11087
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/REDE%20TV%204K.png" group-title="4K",REDETV 4K
+http://puhd.host:80/claudioelite/4725116/11088
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/RECORD%20TV%204K.png" group-title="4K",RECORD 4K
+http://puhd.host:80/claudioelite/4725116/11089
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/BAND%204K.png" group-title="4K",BAND 4K
+http://puhd.host:80/claudioelite/4725116/11090
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/MEGAPIX%204K.png" group-title="4K",MEGAPIX 4K
+http://puhd.host:80/claudioelite/4725116/11123
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/FOX%20SPORTS%202%204K.png" group-title="4K",FOX SPORTS 2 4K
+http://puhd.host:80/claudioelite/4725116/11124
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/TNT%20SERIES%204K.png" group-title="4K",TNT SERIES 4K
+http://puhd.host:80/claudioelite/4725116/14032
+
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/ESPN%204K.png" group-title="4K",ESPN 4K
+http://puhd.host:80/claudioelite/4725116/14034
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/SPACE%204K.png" group-title="4K",SPACE 4K
+http://puhd.host:80/claudioelite/4725116/14035
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/NATIONAL%20GEOGRAPHIC%204K.png" group-title="4K",NATGEO 4K
+http://puhd.host:80/claudioelite/4725116/14033
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/GAZETA%204K.png" group-title="4K",GAZETA 4K
+http://puhd.host:80/claudioelite/4725116/36171
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/TELECINE%20PIPOCA%204K.png" group-title="4K",TELECINE PIPOCA 4K
+http://puhd.host:80/claudioelite/4725116/36173
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/TELECINE%20PREMIUM%204K.png" group-title="4K",TELECINE PREMIUM 4K
+http://puhd.host:80/claudioelite/4725116/36175
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/HBO%204K.png" group-title="4K",HBO 4K
+http://puhd.host:80/claudioelite/4725116/36176
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/CONMEBOL%20LIBERTADORES%204K.png" group-title="4K",CONMEBOL TV 1 4K
+http://puhd.host:80/claudioelite/4725116/39088
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/HBO%20XTREME%204K.png" group-title="4K",HBO XTREME 4K
+http://puhd.host:80/claudioelite/4725116/36172
+
+#EXTINF:-1 tvg-id="" tvg-name="PAUL MC CARTNEY THE SPACE WITHIN US" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20PAUL%20MC%20CARTNEY%20THE%20SPACE%20WITHIN%20US.png" group-title="SHOWS",PAUL MC CARTNEY THE SPACE WITHIN US
+http://puhd.host:80/movie/claudioelite/4725116/11353.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PROJOTA AO VIVO" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20PROJOTA%20AO%20VIVO.png" group-title="SHOWS",PROJOTA AO VIVO
+http://puhd.host:80/movie/claudioelite/4725116/11352.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="QUEEN THE FREDDIE MERCURY" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20QUEEN%20THE%20FREDDIE%20MERCURY.png" group-title="SHOWS",QUEEN THE FREDDIE MERCURY
+http://puhd.host:80/movie/claudioelite/4725116/11354.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="RAIMUNDOS ACUSTICO 2017" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20RAIMUNDOS%20ACUSTICO%202017.png" group-title="SHOWS",RAIMUNDOS ACUSTICO 2017
+http://puhd.host:80/movie/claudioelite/4725116/11356.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="RED HOT CHILI PEPPERS 2003" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20RED%20HOT%20CLILI%20PEPPERS%202003.png" group-title="SHOWS",RED HOT CHILI PEPPERS 2003
+http://puhd.host:80/movie/claudioelite/4725116/11355.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="RED HOT CHILI PEPPERS LIVE IN MILAN 2006" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20RED%20HOT%20CLILI%20PEPPERS%20LIVE%20IN%20MILAN%202006.png" group-title="SHOWS",RED HOT CHILI PEPPERS LIVE IN MILAN 2006
+http://puhd.host:80/movie/claudioelite/4725116/11357.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="RIHANNA LOUD TOUR LIVE AT THE O2 2012" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20RIHANNA%20LOUD%20TOUR%20LIVE%20AT%20THE%20O2%202012.png" group-title="SHOWS",RIHANNA LOUD TOUR LIVE AT THE O2 2012
+http://puhd.host:80/movie/claudioelite/4725116/11358.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SHAKIRA LIVE FROM PARIS" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20SHAKIRA%20LIVE%20FROM%20PARIS.png" group-title="SHOWS",SHAKIRA LIVE FROM PARIS
+http://puhd.host:80/movie/claudioelite/4725116/11362.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="THE BLACK EYED PEAS THE END WORLD TOUR" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20THE%20BLACK%20EYED%20PEAS%20THE%20END.png" group-title="SHOWS",THE BLACK EYED PEAS THE END WORLD TOUR
+http://puhd.host:80/movie/claudioelite/4725116/11364.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="U2 AT THE ROSE BOWL 2010" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20U2%20AT%20THE%20ROSE%20BOWL%202010.png" group-title="SHOWS",U2 AT THE ROSE BOWL 2010
+http://puhd.host:80/movie/claudioelite/4725116/11366.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="ZECA PAGODINHO 30 ANOS VIDA QUE SEGUE" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20ZECA%20PAGODINHO%2030%20ANOS%20VIDA%20QUE%20SEGUE.png" group-title="SHOWS",ZECA PAGODINHO 30 ANOS VIDA QUE SEGUE
+http://puhd.host:80/movie/claudioelite/4725116/11369.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="ZECA PAGODINHO ACUSTICO MTV" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20ZECA%20PAGODINHO%20ACUSTICO%20MTV.png" group-title="SHOWS",ZECA PAGODINHO ACUSTICO MTV
+http://puhd.host:80/movie/claudioelite/4725116/11368.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="MADONNA THE MDNA TOUR 2013" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20MADONNA%20THE%20MDNA%20TOUR%202013.png" group-title="SHOWS",MADONNA THE MDNA TOUR 2013
+http://puhd.host:80/movie/claudioelite/4725116/11344.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="MARIAH CAREY ADVENTURES OF MIMI 2007" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20MARIAH%20CAREY%20ADVENTURES%20OF%20MIMI%202007.png" group-title="SHOWS",MARIAH CAREY ADVENTURES OF MIMI 2007
+http://puhd.host:80/movie/claudioelite/4725116/11346.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="MARTIN GARRI LOLLA PALOOZA BRASIL 2017" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20MARTIN%20GARRIX%20LOLLA%20PALOOZA%20BRASIL%202017.png" group-title="SHOWS",MARTIN GARRI LOLLA PALOOZA BRASIL 2017
+http://puhd.host:80/movie/claudioelite/4725116/11347.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="METALLICA S&M" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20METALLICA%20S%26M.png" group-title="SHOWS",METALLICA S&M
+http://puhd.host:80/movie/claudioelite/4725116/11348.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="METALLICA THROUGH THE NEVER 2013" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20METALLICA%20THROUGH%20THE%20NEVER%202013.png" group-title="SHOWS",METALLICA THROUGH THE NEVER 2013
+http://puhd.host:80/movie/claudioelite/4725116/11349.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="NIRVANA LIVE A TREADING 1992" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20NIRVANA%20LIVE%20A%20TREADING%201992.png" group-title="SHOWS",NIRVANA LIVE A TREADING 1992
+http://puhd.host:80/movie/claudioelite/4725116/11350.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O RAPPA" tvg-logo="http://primeuhd.com/LOGOS/Logo%20VOD%20%26%20SHOW/CAPA%20SHOW/SHOW%20O%20RAPPA.png" group-title="SHOWS",O RAPPA
+http://puhd.host:80/movie/claudioelite/4725116/11351.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FHD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20THEATER.png" group-title="LEGENDADOS",DISCOVERY THEATER FHD LEG
+http://puhd.host:80/claudioelite/4725116/28041
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20THEATER.png" group-title="LEGENDADOS",DISCOVERY THEATER HD LEG
+http://puhd.host:80/claudioelite/4725116/28042
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD² L (2)" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/STAR%20HITS.png" group-title="LEGENDADOS",STAR HITS HD² L (2)
+http://puhd.host:80/claudioelite/4725116/28045
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO  HD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="LEGENDADOS",HBO  HD LEG
+http://puhd.host:80/claudioelite/4725116/28035
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="LEGENDADOS",HBO FHD LEG
+http://puhd.host:80/claudioelite/4725116/28036
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="LEGENDADOS",HBO PLUS FHD LEG
+http://puhd.host:80/claudioelite/4725116/28032
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="LEGENDADOS",HBO PLUS HD LEG
+http://puhd.host:80/claudioelite/4725116/28033
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURA HD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="LEGENDADOS",HBO SIGNATURA HD LEG
+http://puhd.host:80/claudioelite/4725116/28031
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/SYFY.png" group-title="LEGENDADOS",SYFY FHD LEG
+http://puhd.host:80/claudioelite/4725116/28029
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/SYFY.png" group-title="LEGENDADOS",SYFY HD LEG
+http://puhd.host:80/claudioelite/4725116/28030
+
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20CULT.png" group-title="LEGENDADOS",TELECINE CULT FHD LEG
+http://puhd.host:80/claudioelite/4725116/28040
+
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20CULT.png" group-title="LEGENDADOS",TELECINE CULT HD LEG
+http://puhd.host:80/claudioelite/4725116/28039
+
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PREMIUM.png" group-title="LEGENDADOS",TELECINE PREMIUM FHD LEG
+http://puhd.host:80/claudioelite/4725116/28038
+
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20PREMIUM.png" group-title="LEGENDADOS",TELECINE PREMIUM HD LEG
+http://puhd.host:80/claudioelite/4725116/28037
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/UNIVERSAL%20CHANNEL.png" group-title="LEGENDADOS",UNIVERSAL CHANNEL FHD LEG
+http://puhd.host:80/claudioelite/4725116/28043
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/UNIVERSAL%20CHANNEL.png" group-title="LEGENDADOS",UNIVERSAL CHANNEL HD LEG
+http://puhd.host:80/claudioelite/4725116/28044
+
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/WARNER%20TV.png" group-title="LEGENDADOS",WARNER CHANNEL HD LEG
+http://puhd.host:80/claudioelite/4725116/28028
+
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHHANEL FHD HEVC LEG" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/WARNER%20TV.png" group-title="LEGENDADOS",WARNER CHHANEL FHD HEVC LEG
+http://puhd.host:80/claudioelite/4725116/28027
+
