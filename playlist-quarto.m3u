@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="Globo [FHD]" tvg-logo="http://p6.vc/VCL" group-title="Quarto | Notícia",Globo TV Brasilia FHD
+http://pfsv.io:80/0943896822/49933/360.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News [4K]" tvg-logo="http://p6.vc/VNF" group-title="Quarto | Notícia",Globo News [4K]
+http://pfsv.io:80/0943896822/49933/50864.ts
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="Globo News [FHD]" tvg-logo="http://p6.vc/AWY" group-title="Quarto | Notícia",Globo News FHD
+http://pfsv.io:80/0943896822/49933/512.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND [FHD]" tvg-logo="http://p6.vc/VVK" group-title="Quarto | Notícia",BAND FHD [H265]
+http://pfsv.io:80/0943896822/49933/113588.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND [FHD] [H265]" tvg-logo="http://p6.vc/VVK" group-title="Quarto | Notícia",BAND FHD [H265]
+http://pfsv.io:80/0943896822/49933/113588.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band [4K]" tvg-logo="http://p6.vc/AZH" group-title="Quarto | Notícia",Band SP [4K]
+http://pfsv.io:80/0943896822/49933/580.ts
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="Band Sports [FHD]" tvg-logo="http://p6.vc/ANX" group-title="Quarto | Esporte",Band Sport FHD
+http://pfsv.io:80/0943896822/49933/247.ts
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="Band Sports [FHD] [HDR]" tvg-logo="http://p6.vc/VSW" group-title="Quarto | Esporte",Band Sports FHD [HDR]
+http://pfsv.io:80/0943896822/49933/130175.ts
